@@ -1,0 +1,15 @@
+@import './vars.scss';
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-family: sans-serif;
+	color: $c-white;
+	background-color: $c-main;
+}
+
+.app {
+	font-size: $f-def;
+}
